@@ -1,0 +1,232 @@
+
+]
+
+FBShareUrlOhttps://play.google.com/store/apps/details?id=com.aladinfun.piggytravel.android
+
+FBPageId378134846292280
+
+	FBGroupId2100495096686698
+4
+	FBPageUrl'https://www.facebook.com/PiggyGOTravel/
+?
+
+FBGroupUrl1https://www.facebook.com/groups/2100495096686698/
+0
+FBPageAndroidAppUrlfb://page/378134846292280
+/
+FBPageIOSAppUrlfb://profile/378134846292280
+3
+FBGroupAndroidAppUrlfb://group/2100495096686698
+3
+FBGroupIOSAppUrlfb://group/?id=2100495096686698
+
+NoviceInitEnergyGuest7
+
+NoviceInitEnergyFB7
+
+NoviceInitEnergy30
+
+NoviceInitMoney80000
+
+NoviceCashKingRoleIndex4
+
+NoviceCashKingMoney200000
+
+QuickPayMoneyMaxDice20
+
+RateCDInterval30
+
+
+RateCityId3|9
+
+RateStealMoneyLimit2500000
+6
+GooglePlayStoreId!com.aladinfun.piggytravel.android
+
+AppleAppStoreId
+1435266087
+
+GooglePlayStoreNamePiggy Go
+
+GetFriendList30
+
+BoardAdHintNoviceEnergy5
+
+BoardAdPopupEnergy10
+
+AttackTargetRandomWeight30
+
+AttackTargetRevengeWeight0
+
+AttackTargetFriendWeight0
+
+AdSingleLoadFailCount6
+
+AdLoadFailInterval180
+
+AdWatchLimitSingleLogin8
+
+AdWatchCoolingInterval1
+
+MealTradeEnable1
+
+MealSendEnable1
+
+AttackLimitCount6
+
+ShowExchangeCodeView1
+
+StealOprSpeedPercent12
++
+&CollectionMallPropsSellDifferenceValue1
+&
+!CollectMallPropSellWithOwnAllCard0
+)
+ CollectionMallResolveRewardTips11#2#5
+)
+ CollectionMallResolveRewardTips22#4#7
+)
+ CollectionMallResolveRewardTips33#6#9
+*
+ CollectionMallResolveRewardTips44#8#11
+)
+ CollectionMallResolveRewardTips55#10#
+
+MealAdViewCloseLimitTime2
+
+BuildAdViewCloseLimitTime2
+ 
+LoginPopupLevel1Limit1#1#1#2
+ 
+LoginPopupLevel2Limit1#1#1#2
+
+LoginPopupLevel3Limit0
+
+LoginPopupLevel4Limit1#1#2
+
+LoginPopupLevel5Limit1#3#4
+
+FriendChatPushLimitCount3
+
+PushLimitTime3
+
+PushLimitCount3
+
+LeagueRankRefreshTime60
+!
+DiceBetAutoChangeEnergyLimit5
+&
+!DiceHigherBetTipsEnergyVaildLimit3
+
+DiceHigherBetTipsLimit20
+
+FbFriendViewBtnShow1
+
+BetWheelPayCountdown300
+
+SuperSpinBasePrice99
+
+SuperSpinMaxRewardCount8000
+
+IsShowRateView1
+
+TradeDelayPaymentTipsCount3
+$
+TradeDelayPaymentLimitTipsCount3
+
+IsCumuSignOpen1
+
+MainPageAdUnlockCity3
+$
+VipViewRewardLimit3000#800000000
+
+EnableLogReceived1
+
+RateStealMultipleLimit12
+
+NewCityPassEnableCities2000
+"
+NewCityPassShareEnableCityId10
+
+NewCityPassDefaultShare1
+5
+LeagueAndStageRewardABTestUids0|1|2|3|4|5|6|7|8|9
+
+UseSimpleBoardSkin1
+s
+	AvatarUrlfhttps://piggygo-static.forevernine.com/cdn/PiggyTravel/platform/PiggyTravel_global/Image/Avatar/%s.jpg
+
+LowestMessengerVersion280
+"
+FoodAdStyleABTestUids	1|3|5|7|9
+$
+StageCollectionSlotMissionCount6
+
+
+iOSATTOpen1
+
+iOSATTPopType0
+'
+ToBuildShowCondition2|3|4|5|6|7|8|9
+
+	IsVipOpen0
+
+CollectMailLootIDs22140
+6
+InviteWinnerList1!2235067303302071|3|5|Loran Tintin
+;
+InviteWinnerList2&6290575007649750|3|5|Stephane Cressent
+C
+InviteWinnerList3.2291818590946514|3|5|Emilie Iglesias Fernandez
+>
+InviteWinnerList4)4541623202550717|3|5|Jessica Vandenberghe
+7
+InviteWinnerList5"187973735671908|3|5|Sabine Acoulon
+<
+InviteWinnerList6'1107362243126811|2|3|Louisette Barberon
+;
+InviteWinnerList7&421701793029186|2|3|Justine Eux Ma Vie
+6
+InviteWinnerList8!2801538863434693|2|3|Beya Fequant
+6
+InviteWinnerList9!2278937448901130|2|3|Eric Jacquet
+@
+InviteWinnerList10*500508344205937|2|3|Malaury Samuel Vasseur
+O
+InviteFinishSkipURL8https://www.facebook.com/PiggyGOFR/posts/135305522224262
+
+InviteFinishCountryfr
+
+InviteFinishLimitTimes3
+,
+InviteFinishTimeStart2021-12-9  10:00:00
++
+InviteFinishTimeEnd2021-12-12  20:00:00
+R
+OfficialShopAddressTest7https://test.forevernine.com/pg-store?uid={1}&token={2}
+T
+OfficialShopAddressBeta9https://prepro.forevernine.com/pg-store?uid={1}&token={2}
+T
+OfficialShopAddressRelease6https://www.forevernine.com/pg-store?uid={1}&token={2}
+
+OfficialShopAppReview0
+ 
+InviteEarningCodeOpenCity500
+
+FbFriendShareToggle1
+
+DeluxeSignRewardPopNum2
+
+InviteEarningLoginPopNum3
+
+PopupControlFund1
+ 
+PopupContorlBattlePassLogin1
+
+PopupContorlBattlePassDice0
+
+PopupContorlAdWheel1
+
+PopupContorlInviteDice0
+
+PopupContorlInviteMoney1

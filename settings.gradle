@@ -1,0 +1,3 @@
+include 'FirebaseApp.androidlib'
+include 'MaxMediationGoogle.androidlib'
+include 'unity-android-resources'
